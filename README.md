@@ -36,11 +36,12 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumouna-abdelghani&layout=compact&hide_border=false&title_color=2EE59D&text_color=C9D1D9&bg_color=0D1117&border_color=30363D" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=oumouna-abdelghani&layout=compact&hide_border=false&title_color=2EE59D&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&v=1" alt="Top languages" />
 
 </div>
 
 ---
+
 ### 🌐 Connect with Me
 
 <div align="center">
