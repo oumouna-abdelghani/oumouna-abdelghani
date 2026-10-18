@@ -1,5 +1,12 @@
+<div align="center">
 
-# Hi there, I'm Abdelghani Oumouna 👋
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3500&pause=1200&color=2EE59D&center=true&vCenter=true&repeat=true&width=520&height=70&lines=Hi,+I'm+Abdelghani" alt="Typing SVG" />
+</a>
+
+</div>
+
+---
 
 ### 👨‍💻 About Me
 - 🤖 **Focus:** Machine Learning, Reinforcement Learning & Semantic Search / RAG
@@ -7,15 +14,41 @@
 - 🚀 **Built:** DQN Agent for OpenAI Gym CartPole & Vector-based Semantic Search Engine
 - 🎯 **Goal:** Developing intelligent software & participating in AI / Quantum Hackathons
 
+---
+
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,c,git,html,css,figma&theme=dark&perline=8" alt="Tech stack" />
+</div>
+
+---
 
 ### 📊 GitHub Stats
-![Abdelghani's GitHub stats](https://github-readme-stats.vercel.app/api?username=oumouna-abdelghani&show_icons=true&theme=dark)
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=oumouna-abdelghani&show_icons=true&hide_border=false&title_color=2EE59D&icon_color=2EE59D&text_color=C9D1D9&bg_color=0D1117&border_color=30363D" alt="GitHub stats" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=oumouna-abdelghani&hide_border=false&background=0D1117&border=30363D&ring=2EE59D&fire=FF9F1C&currStreakNum=FFFFFF&currStreakLabel=2EE59D&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumouna-abdelghani&layout=compact&hide_border=false&title_color=2EE59D&text_color=C9D1D9&bg_color=0D1117&border_color=30363D" alt="Top languages" />
+
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/abdelghani-oumouna-3a74a8404">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ghaniomn2007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
