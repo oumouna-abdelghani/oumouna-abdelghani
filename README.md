@@ -41,14 +41,14 @@
 </div>
 
 ---
-
 ### 🌐 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdelghani-oumouna-3a74a8404">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="48" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:ghaniomn2007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" height="48" />
   </a>
 </div>
