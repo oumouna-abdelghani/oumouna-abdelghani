@@ -8,19 +8,24 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🤖 **Focus:** Machine Learning, Reinforcement Learning & Semantic Search / RAG
-- 🛠️ **Current Stack:** Python, TensorFlow, PyTorch, Gymnasium, Git
-- 🚀 **Built:** DQN Agent for OpenAI Gym CartPole & Vector-based Semantic Search Engine
-- 🎯 **Goal:** Developing intelligent software & participating in AI / Quantum Hackathons
+### 🤖 About Me
+
+* 🤖 **Focus:** AI Engineering, Hybrid GraphRAG, Knowledge Graphs & Vector Search
+* 🛠️ **Core Stack:** Python, Neo4j (Cypher), ChromaDB, Google Gemini API, Docker, TensorFlow, PyTorch
+* 🚀 **Featured Projects:**
+  * **Hybrid GraphRAG Recommender System:** Integrated ChromaDB vector search with Neo4j graph traversal and Gemini LLM context grounding for relationship-aware recommendations.
+  * **Deep Q-Network (DQN) Agent:** Reinforcement Learning agent built with TensorFlow & OpenAI Gymnasium to solve the CartPole environment.
+* 🎯 **Goal:** Architecting production-ready GraphRAG systems, intelligent AI agents, and participating in AI Hackathons.
 
 ---
 
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,c,git,html,css,figma&theme=dark&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=py,js,tensorflow,c,docker,git,html,css,figma&theme=dark&perline=9" alt="Tech stack" />
 </div>
+
+---
 
 ---
 
