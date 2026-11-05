@@ -57,7 +57,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="48" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:ghaniomn2007@gmail.com">
+  <a href="mailto:oumouna.abdelghani@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" height="48" />
   </a>
 </div>
